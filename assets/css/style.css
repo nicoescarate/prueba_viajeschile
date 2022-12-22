@@ -3,6 +3,8 @@
 }
 .navbar{
     background-color: transparent;
+    font-family: 'Questrial', sans-serif;
+
 }
 
 /*nosotros*/
@@ -13,10 +15,14 @@
     text-align: center;
     color: #ffffff;
     padding-top: 40pt;
+    font-family: 'Questrial', sans-serif;
+
 }
 
 .parrafos{
     color: #ffffff;
+    font-family: 'Questrial', sans-serif;
+
 }
 /*galeria*/
 .galdestacados{
@@ -30,10 +36,7 @@
 
 }
 
-.fotochica img{
-width: 316px;
-height: 210.69px;
-}
+
 
 
 .galeriafotos{
